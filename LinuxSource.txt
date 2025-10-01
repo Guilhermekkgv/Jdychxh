@@ -5055,7 +5055,7 @@ function Linux.Create(config)
                     Parent = HexFrame,
                     BackgroundTransparency = 1,
                     Size = UDim2.new(0, 25, 1, 0),
-                    Position = U Dim2.new(0, 0, 0, 0),
+                    Position = UDim2.new(0, 0, 0, 0),
                     Font = Enum.Font.GothamSemibold,
                     Text = "HEX",
                 
